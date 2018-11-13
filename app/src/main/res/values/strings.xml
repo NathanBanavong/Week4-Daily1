@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Week4-Daily1</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <!--TODO need to change the menu input -> takes in shortened country name (NZ, AUS)-->
+    <string-array name="nationality_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+
+
+</resources>
